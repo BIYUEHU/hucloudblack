@@ -34,8 +34,11 @@
     - Hcb.php 主程序文件
 ## 说明
 数据库文件:/sql/hcb.sql，数据库配置文件:/config/database.php，自行导入配置并使用
+
 邮箱插件配置文件:/app/plugins/email/_config.php，自行配置用于注册账号
+
 网页聊天机器人插件:[https://github.com/BIYUEHU/hucloudblack-plguin-robot](https://github.com/BIYUEHU/hucloudblack-plguin-robot),用于世界频道聊天
+
 默认最高管理员账户密码:123456@gmail.com 123456
 
 伪静态配置
