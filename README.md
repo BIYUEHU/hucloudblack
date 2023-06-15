@@ -37,7 +37,9 @@
 
 邮箱插件配置文件:/app/plugins/email/_config.php，自行配置用于注册账号
 
-网页聊天机器人插件:[https://github.com/BIYUEHU/hucloudblack-plguin-robot](https://github.com/BIYUEHU/hucloudblack-plguin-robot),用于世界频道聊天
+目前支持插件:
+**网页聊天机器人插件**:用于频道聊天
+插件仓库:[https://github.com/BIYUEHU/hucloudblack/tree/plugins](https://github.com/BIYUEHU/hucloudblack/tree/plugins)
 
 默认最高管理员账户密码:123456@gmail.com 123456
 
