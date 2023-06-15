@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/BIYUEHU/hucloudblack.svg?branch=main)](https://app.travis-ci.com/BIYUEHU/hucloudblack) ![License](https://img.shields.io/badge/license-GPL-blue) 
+
 # 糊云黑
 基于**HULICORE**，现将其开源。非前后端分离项目，**MVC**(ModelViewController)架构设计理念，运行稳定性未知，PHP版本推荐7.0.0+
 ## 目录
